@@ -14,7 +14,7 @@
     NSMutableDictionary *params = [[NSMutableDictionary alloc] init];
     params[@"callback"] = callback;
     
-    return [self performTarget:@"Hotel" action:@"viewController" params:params shouldCacheTarget:NO];
+    return [self performTarget:@"hotel" action:@"viewController" params:params shouldCacheTarget:NO];
 }
 
 @end
