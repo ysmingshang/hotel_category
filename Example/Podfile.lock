@@ -1,6 +1,6 @@
 PODS:
   - CTMediator (12)
-  - hotel_category (0.0.1):
+  - hotel_category (0.0.2):
     - CTMediator
 
 DEPENDENCIES:
@@ -12,7 +12,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   CTMediator: 83043d198b7ea73214d53375adfdd7f60edd4c1a
-  hotel_category: ac0b714b148933fee61f4ee91ff39dbf17d966df
+  hotel_category: 7ea61b83c6852a06e83e56c1f4e4bf197dea23d2
 
 PODFILE CHECKSUM: e317156f0d7ff5e9f15996f4d14223e7a471bbb7
 
