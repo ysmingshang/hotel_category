@@ -5,7 +5,7 @@
 //  Created by Mikey on 2018/1/10.
 //
 
-#import "CTMediator.h"
+#import "CTMediator+Hotel.h"
 
 @implementation CTMediator (Hotel)
 
